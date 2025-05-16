@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Perfil Pessoal</title>
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f4f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #007acc;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .info {
+            margin-top: 20px;
+        }
+        .info strong {
+            color: #007acc;
+        }
+</style>
+</head>
+<body>
+
+ <div class="container">
+ <h1>Perfil Pessoal</h1>
+ <div class="info">
+ <p><strong>Nome:</strong> Alysson Saraiva Barros</p>
+ <p><strong>Matrícula:</strong> 202309135991</p>
+ <p><strong>Curso:</strong> Analise e desenvolvimento de sistema</p>
+            <p><strong>Objetivo Profissional:</strong> Tornar-me um desenvolvedor full stack e atuar na criação de soluções tecnológicas inovadoras que impactem positivamente a sociedade.</p>
+   </div>
+   </div>
+
+</body>
+</html>
